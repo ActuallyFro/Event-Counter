@@ -371,29 +371,14 @@
       function loadState() {
         const savedState = localStorage.getItem('eventCounterState');
         if (savedState) {
-          try {
-            state = JSON.parse(savedState);
-            updateDisplay();
-          } catch (e) {
-            console.error("Error loading state:", e);
-            // Reset to default if corrupted
-            state = {
-              cashCount: 0,
-              creditCount: 0,
-              transactions: []
-            };
-          }
+          state = JSON.parse(savedState);
+          updateDisplay();
         }
       }
 
       // Save state to localStorage
       function saveState() {
-        try {
-          localStorage.setItem('eventCounterState', JSON.stringify(state));
-        } catch (e) {
-          console.error("Error saving state:", e);
-          alert("Error saving data to local storage.");
-        }
+        localStorage.setItem('eventCounterState', JSON.stringify(state));
       }
 
       // Update counter display
@@ -426,37 +411,22 @@
         };
         updateDisplay();
         saveState();
-        closeModal();
-      }
-
-      // Open modal
-      function openModal() {
-        resetModal.style.display = 'flex';
-      }
-
-      // Close modal
-      function closeModal() {
         resetModal.style.display = 'none';
       }
 
       // Download data as JSON
       function downloadData() {
-        try {
-          const dataStr = JSON.stringify(state, null, 2);
-          const dataBlob = new Blob([dataStr], { type: 'application/json' });
-          const url = URL.createObjectURL(dataBlob);
-          
-          const link = document.createElement('a');
-          link.href = url;
-          link.download = `event-counter-data-${new Date().toISOString().slice(0,10)}.json`;
-          document.body.appendChild(link);
-          link.click();
-          document.body.removeChild(link);
-          URL.revokeObjectURL(url);
-        } catch (e) {
-          console.error("Download error:", e);
-          alert("Error downloading data. Please try again.");
-        }
+        const dataStr = JSON.stringify(state, null, 2);
+        const dataBlob = new Blob([dataStr], { type: 'application/json' });
+        const url = URL.createObjectURL(dataBlob);
+        
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = `event-counter-data-${new Date().toISOString().slice(0,10)}.json`;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+        URL.revokeObjectURL(url);
       }
 
       // Toggle dark mode
@@ -475,43 +445,40 @@
       }
 
       // Event Listeners
-      cashBtn.addEventListener('click', function() {
+      cashBtn.addEventListener('click', () => {
         addTransaction('cash');
       });
 
-      creditBtn.addEventListener('click', function() {
+      creditBtn.addEventListener('click', () => {
         addTransaction('credit');
       });
 
-      resetBtn.addEventListener('click', function() {
-        openModal();
+      resetBtn.addEventListener('click', () => {
+        resetModal.style.display = 'flex';
       });
 
-      confirmReset.addEventListener('click', function() {
-        resetCounters();
+      confirmReset.addEventListener('click', resetCounters);
+
+      cancelReset.addEventListener('click', () => {
+        resetModal.style.display = 'none';
       });
 
-      cancelReset.addEventListener('click', function() {
-        closeModal();
-      });
-
-      window.addEventListener('click', function(event) {
-        if (event.target === resetModal) {
-          closeModal();
-        }
-      });
-
-      downloadBtn.addEventListener('click', function() {
-        downloadData();
-      });
+      downloadBtn.addEventListener('click', downloadData);
 
       darkModeToggle.addEventListener('change', toggleDarkMode);
+
+      // Close modal if clicking outside
+      window.addEventListener('click', (event) => {
+        if (event.target === resetModal) {
+          resetModal.style.display = 'none';
+        }
+      });
 
       // Initialize
       initDarkMode();
       loadState();
-
-      // Fix for mobile browsers
+      
+      // Fix for mobile browsers - added from file 02
       document.addEventListener('touchend', function(e) {
         // Prevent zoom on double-tap for interactive elements
         if (e.target.tagName === 'BUTTON') {
