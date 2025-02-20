@@ -163,10 +163,28 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
+      position: relative; /* Added for better touch target */
     }
 
     .btn:active {
       transform: scale(0.98);
+    }
+
+    /* Add pseudo-element for better touch target */
+    .btn::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 1;
+    }
+
+    /* Make icon and text stay above the pseudo-element */
+    .btn .icon, .btn span:not(.icon) {
+      position: relative;
+      z-index: 2;
     }
 
     .btn-cash {
@@ -204,6 +222,7 @@
     .icon {
       font-size: 2rem;
       margin-bottom: 10px;
+      pointer-events: none; /* Make icon not block button clicks */
     }
 
     .switch {
@@ -295,6 +314,24 @@
       cursor: pointer;
       font-size: 1rem;
       min-width: 120px;
+      position: relative; /* Added for better touch target */
+    }
+
+    /* Add pseudo-element for better touch target */
+    .modal-btn::after {
+      content: '';
+      position: absolute;
+      top: -10px; /* Extended touch area */
+      left: -10px; /* Extended touch area */
+      right: -10px; /* Extended touch area */ 
+      bottom: -10px; /* Extended touch area */
+      z-index: 1;
+    }
+
+    /* Ensure text stays above pseudo-element */
+    .modal-btn span {
+      position: relative;
+      z-index: 2;
     }
 
     .confirm-btn {
@@ -366,8 +403,8 @@
       <h2>Are you sure?</h2>
       <p>This will reset all counters and clear all stored data. This action cannot be undone.</p>
       <div class="modal-buttons">
-        <button class="modal-btn confirm-btn" id="confirmReset">Yes, Reset</button>
-        <button class="modal-btn cancel-btn" id="cancelReset">Cancel</button>
+        <button class="modal-btn confirm-btn" id="confirmReset"><span>Yes, Reset</span></button>
+        <button class="modal-btn cancel-btn" id="cancelReset"><span>Cancel</span></button>
       </div>
     </div>
   </div>
@@ -469,28 +506,46 @@
         }
       }
 
-      // Event Listeners
-      cashBtn.addEventListener('click', () => {
+      // Event Listeners - Using touchstart for better mobile responsiveness
+      function setupButtonListeners(button, action) {
+        // Handle both click and touch events
+        button.addEventListener('click', action);
+        button.addEventListener('touchstart', function(e) {
+          e.preventDefault(); // Prevent default touch behavior
+          action(e);
+        }, { passive: false });
+      }
+
+      setupButtonListeners(cashBtn, function() {
         addTransaction('cash');
       });
 
-      creditBtn.addEventListener('click', () => {
+      setupButtonListeners(creditBtn, function() {
         addTransaction('credit');
       });
 
-      resetBtn.addEventListener('click', () => {
+      setupButtonListeners(resetBtn, function() {
         resetModal.style.display = 'flex';
       });
 
-      confirmReset.addEventListener('click', resetCounters);
+      setupButtonListeners(confirmReset, resetCounters);
 
-      cancelReset.addEventListener('click', () => {
+      setupButtonListeners(cancelReset, function() {
         resetModal.style.display = 'none';
       });
 
-      downloadBtn.addEventListener('click', downloadData);
+      setupButtonListeners(downloadBtn, downloadData);
 
       darkModeToggle.addEventListener('change', toggleDarkMode);
+
+      // Improved modal handling
+      resetModal.addEventListener('touchstart', function(e) {
+        // Only close if touching outside the modal content
+        if (e.target === resetModal) {
+          e.preventDefault();
+          resetModal.style.display = 'none';
+        }
+      }, { passive: false });
 
       // Close modal if clicking outside
       window.addEventListener('click', (event) => {
@@ -499,17 +554,16 @@
         }
       });
 
+      // Prevent double-tap zoom on all buttons
+      document.querySelectorAll('.btn, .modal-btn').forEach(button => {
+        button.addEventListener('touchend', function(e) {
+          e.preventDefault();
+        }, { passive: false });
+      });
+
       // Initialize
       initDarkMode();
       loadState();
-      
-      // Fix for mobile browsers - added from file 02
-      document.addEventListener('touchend', function(e) {
-        // Prevent zoom on double-tap for interactive elements
-        if (e.target.tagName === 'BUTTON') {
-          e.preventDefault();
-        }
-      }, { passive: false });
     });
   </script>
 </body>
