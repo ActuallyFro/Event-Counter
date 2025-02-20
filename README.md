@@ -12,6 +12,7 @@ A lightweight, browser-based counter application for tracking event attendance b
 - **Dark/Light Mode**: Toggle between visual themes for different lighting conditions
 - **Data Export**: Download all recorded data as a JSON file
 - **Reset Protection**: Confirmation dialog prevents accidental data loss
+- **Data Analysis**: Visualize and analyze your transaction data (see Analysis section)
 
 ## Usage
 
@@ -31,6 +32,26 @@ A lightweight, browser-based counter application for tracking event attendance b
 
 - **Reset Button (Red)**: Clears all counters and stored data (requires confirmation)
 - **Download Button (Orange)**: Exports all transaction data as a JSON file
+
+## Data Analysis
+
+The separate Analysis.html file provides advanced data visualization tools to help you understand transaction patterns:
+
+### Analysis Features
+
+- **Interactive Charts**: Visualize data with responsive, interactive D3.js charts
+- **Multiple Time Views**: Analyze data grouped by minute or hour
+- **Stacked Bar Chart**: View cash and credit transactions side-by-side
+- **Bollinger Band Analysis**: Track transaction trends with statistical bands
+- **Hourly Averages**: See running average transaction rates
+- **Detailed Tooltips**: Hover over data points for detailed information
+
+### Using the Analysis Tool
+
+1. Open Analysis.html in a modern web browser
+2. Upload your JSON data file (exported from the main application)
+3. Toggle between minute and hourly views as needed
+4. Interact with charts to view detailed statistics
 
 ## Technical Details
 
@@ -74,6 +95,11 @@ Downloaded data is provided as a JSON file with the naming convention:
 - Safari 11+
 - Edge 16+
 
+### Analysis Tool Requirements
+
+- Modern browser with ES6 support
+- D3.js library (loaded via CDN)
+
 ## Privacy
 
 - All data remains on your local device
@@ -84,10 +110,8 @@ Downloaded data is provided as a JSON file with the naming convention:
 
 ### File Structure
 
-Single HTML file containing:
-- HTML structure
-- CSS styling (including dark mode)
-- JavaScript functionality
+- **index.html**: Main counter application with HTML, CSS, and JavaScript
+- **Analysis.html**: Data visualization tool with D3.js charts
 
 ### Customization
 
