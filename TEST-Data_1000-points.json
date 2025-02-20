@@ -1,0 +1,4006 @@
+{
+  "cashCount": 246,
+  "creditCount": 754,
+  "transactions": [
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:22.248Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:22.465Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:22.668Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:22.875Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:23.086Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:23.297Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:23.501Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:23.713Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:23.918Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T02:41:24.130Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:42.106Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:42.506Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:42.712Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:42.905Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:43.079Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:43.270Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:43.758Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:44.541Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:44.752Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:44.937Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:45.115Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:45.313Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T04:39:45.515Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T04:39:45.820Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:12.407Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:12.901Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:13.392Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:13.766Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:13.982Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:14.634Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:15.069Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:15.277Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:15.478Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:15.963Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:16.210Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:16.554Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:16.786Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:16.977Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:17.182Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:17.912Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:18.442Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:18.831Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T05:09:19.169Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T05:09:19.495Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:14.383Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:14.870Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:15.193Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:15.510Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:15.910Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:16.267Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:16.673Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:16.933Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:17.184Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:17.400Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:17.784Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:18.173Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:18.534Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:18.862Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:19.152Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:19.566Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:19.975Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:20.396Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:20.713Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:21.128Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:21.528Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:21.979Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:22.245Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:22.646Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:23.192Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:23.465Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:23.711Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:23.925Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:24.943Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:25.409Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:25.656Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:25.864Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:26.054Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:26.586Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:14:26.905Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:27.557Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:27.782Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:14:28.005Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:22.685Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:23.656Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:23.948Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:24.651Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:25.220Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:25.567Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:25.804Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:26.037Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:26.480Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:26.710Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:26.952Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:27.184Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:27.422Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:27.935Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:29.036Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:29.397Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:29.603Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:29.838Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:30.041Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:30.263Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:30.489Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:30.774Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:31.149Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:31.343Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:31.533Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:31.714Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:32.192Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:32.605Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:32.839Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:33.062Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:33.277Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:33.514Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:33.722Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:33.940Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:34.157Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:34.393Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:34.610Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:34.845Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:35.105Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:35.767Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:36.472Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:36.919Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:37.280Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:37.500Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:37.731Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:38.187Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:38.756Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:39.216Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:39.550Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:39.821Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:40.076Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:40.474Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:40.788Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:31:41.229Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:41.872Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:42.761Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:43.249Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:43.505Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:31:44.350Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:46:58.484Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:46:58.911Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:46:59.719Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:00.390Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:00.997Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:01.470Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:02.163Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:02.388Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:47:03.309Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:47:04.665Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:47:04.880Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:05.224Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:05.423Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:05.590Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:47:05.958Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:06.211Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:06.567Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:06.755Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:47:07.124Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:47:07.352Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:07.600Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:47:07.850Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:54:14.162Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:54:14.647Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:15.260Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:15.737Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:15.988Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:16.256Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:16.511Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:16.802Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:17.060Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:17.316Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:17.583Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:17.871Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:18.152Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:18.414Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:18.661Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:18.947Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:19.254Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:19.499Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:19.791Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:20.049Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:20.327Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:20.588Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:20.877Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:21.129Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:21.408Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:21.705Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:21.973Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:22.232Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:22.521Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:22.788Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:23.070Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:23.377Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:23.654Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:23.940Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:24.222Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:24.508Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:24.789Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:25.286Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:25.672Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T13:54:26.095Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:54:26.529Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:54:26.930Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T13:54:27.318Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:01.556Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:01.858Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:02.128Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:02.435Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:02.782Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:03.175Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:03.529Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:03.732Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:03.927Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:04.104Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:04.276Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:04.443Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:04.626Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:04.792Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:04.986Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:05.158Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:05.340Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:05.531Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:05.998Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:06.265Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:06.471Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:01:06.659Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:06.842Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:07.068Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:07.259Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:07.441Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:01:07.765Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:09:26.119Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:09:26.726Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:09:27.192Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:09:27.493Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:28.018Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:28.216Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:28.400Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:28.634Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:28.851Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:29.055Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:29.272Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:29.468Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:29.677Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:29.898Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:30.217Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:30.446Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:30.659Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:30.911Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:31.165Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:31.390Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:31.645Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:31.913Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:32.227Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:32.635Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:32.856Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:33.248Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:33.613Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:09:34.888Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:17.542Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:18.022Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:18.332Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:18.593Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:18.845Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:19.488Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:19.806Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:10:20.384Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:10:20.643Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:10:20.867Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:10:21.094Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:10:21.316Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:21.818Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:22.062Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:22.297Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:10:22.517Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:12:47.774Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:12:48.285Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:12:48.885Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:12:49.522Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:12:50.302Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:54.671Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:55.157Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:55.626Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:55.923Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:56.123Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:56.392Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:57.025Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:57.562Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:58.114Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:58.673Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:59.220Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:59.548Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:12:59.801Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:00.039Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:00.590Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:01.798Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:05.694Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:05.997Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:06.207Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:06.419Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:06.771Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:07.047Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:13:07.471Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:13:07.739Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:13:10.537Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:13:10.814Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:11.269Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:11.568Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:11.815Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:12.031Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:12.249Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:12.552Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:12.730Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:12.936Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:13.136Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:13.344Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:13:13.588Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:14:26.908Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:14:27.476Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:14:27.890Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:28.749Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:29.314Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:29.736Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:30.176Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:30.593Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:31.082Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:31.509Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:32.702Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:32.927Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:33.116Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:14:33.401Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:39.970Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:40.803Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:41.739Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:42.189Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:43.153Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:43.496Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:44.228Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:44.557Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:44.828Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:45.164Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:45.757Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:46.071Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:46.557Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:46.984Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:47.911Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:48.663Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:49.105Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:49.523Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:50.653Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:51.211Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:51.657Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:52.145Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:52.675Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:53.116Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:53.577Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:54.097Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:54.883Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:55.708Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:15:56.043Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:56.620Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:57.114Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:15:57.431Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:18:25.274Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:18:25.872Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:18:26.213Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:18:26.762Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:18:27.100Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:18:27.622Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:28.139Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:28.677Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:29.210Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:29.583Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:30.574Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:31.139Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:31.629Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:31.947Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:32.500Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:33.081Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:33.979Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:34.454Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:34.935Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:35.245Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:35.506Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:35.811Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:36.402Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:36.957Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:37.327Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:37.749Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:38.116Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:38.525Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:38.996Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:39.252Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:39.502Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:39.938Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:40.321Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:40.606Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:41.056Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:41.845Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:42.115Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:42.631Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:18:43.068Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:19.490Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:19.836Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:20.071Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:20.285Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:20.857Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:21.379Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:21.877Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:22.324Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:22.651Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:23.136Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:23.526Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:24.171Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:24.705Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:25.034Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:25.281Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:25.629Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:26.545Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:27.127Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:27.885Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:28.607Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:29.662Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:31.016Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:31.581Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:33.597Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:34.753Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:35.414Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:35.989Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:36.482Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:37.255Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:37.814Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:38.750Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:39.050Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:40.229Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:40.548Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:40.805Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:41.053Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:41.266Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:41.940Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:42.546Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:43.213Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:43.909Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:45.143Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:45.985Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:46.288Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:46.939Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:47.383Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:47.826Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:48.121Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:48.380Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:49.491Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:50.022Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:50.519Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:51.031Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:51.956Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:19:52.657Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:53.097Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:53.315Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:19:53.503Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:37.111Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:37.528Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:37.791Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:38.150Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:38.787Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:39.043Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:39.728Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:40.384Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:41.019Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:41.518Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:42.090Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:42.435Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:43.030Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:43.451Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:43.848Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:44.346Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:44.649Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:45.003Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:45.274Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:45.563Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:46.252Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:46.678Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:47.430Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:47.732Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:48.015Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:48.516Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:48.895Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:49.805Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:50.541Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:51.841Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:52.206Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:52.442Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:53.267Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:53.753Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:55.755Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:56.011Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:56.557Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:56.963Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:57.341Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:57.590Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:22:57.814Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:58.690Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:59.022Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:59.263Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:59.464Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:22:59.726Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:23:00.280Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:23:00.538Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:23:00.877Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:23:01.566Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:23:01.849Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:23:02.194Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:17.955Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:18.315Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:18.545Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:18.797Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:19.035Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:19.311Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:19.644Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:20.055Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:20.345Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:20.601Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:21.007Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:21.376Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:21.653Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:22.046Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:22.322Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:22.609Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:22.846Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:23.247Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:25.061Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:25.359Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:25.647Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:26.099Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:26.354Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:26.637Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:27.005Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:27.282Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:27.640Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:27.904Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:28.134Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:28.575Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:28.806Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:29.036Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:29.263Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:29.629Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:29.917Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:30.235Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:24:30.579Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:30.978Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:31.239Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:31.451Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:31.708Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:32.157Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:32.384Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:32.632Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:32.957Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:33.304Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:33.569Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:33.827Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:34.052Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:34.276Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:34.510Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:34.767Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:34.998Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:35.499Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:36.190Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:36.450Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:36.686Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:36.926Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:37.223Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:37.436Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:37.700Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:38.165Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:41.404Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:41.655Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:41.901Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:42.162Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:42.594Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:42.932Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:43.208Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:24:43.714Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:55.563Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:55.838Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:56.158Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:56.542Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:56.822Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:57.136Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:57.633Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:58.005Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:58.269Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:58.571Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:59.147Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:25:59.424Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:25:59.955Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:26:00.366Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:26:00.656Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:26:01.102Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:26:01.373Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:01.822Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:02.186Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:02.473Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:02.845Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:03.249Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:03.685Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:04.386Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:05.526Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:05.850Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:06.253Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:06.654Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:07.016Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:26:07.425Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:16.370Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:16.814Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:17.232Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:17.526Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:17.788Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:18.216Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:18.649Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:19.454Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:19.756Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:20.565Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:20.964Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:21.286Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:21.537Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:22.063Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:22.401Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:23.229Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:23.997Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:24.322Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:24.747Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:25.367Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:25.699Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:26.029Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:26.442Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:27.311Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:27.724Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:27.979Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:28.228Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:28.426Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:28.629Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:29.072Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:29.994Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:30.200Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:30.407Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:30.842Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:31.149Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:27:32.272Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:32.666Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:34.317Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:34.557Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:27:34.738Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:19.101Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:19.538Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:19.882Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:20.206Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:20.548Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:21.187Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:21.709Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:28:22.455Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:28:23.038Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:28:23.292Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:23.855Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:24.271Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:24.690Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:25.243Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:25.641Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:26.044Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:26.592Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:57.201Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:57.723Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:58.019Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:58.345Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:58.742Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:59.139Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:59.438Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:59.706Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:28:59.960Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:00.388Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:00.905Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:01.137Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:01.478Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:01.773Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:02.083Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:38.607Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:39.090Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:39.549Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:39.917Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:40.225Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:40.491Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:40.772Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:41.053Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:41.396Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:41.708Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:42.016Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:42.315Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:42.637Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:43.063Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:43.438Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:43.782Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:44.071Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:44.308Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:44.693Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:45.108Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:45.681Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:46.490Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:46.810Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:47.334Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:47.856Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:48.296Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:48.913Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:49.455Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:49.941Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:50.366Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:50.736Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:51.220Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:51.678Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:52.125Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:52.589Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:53.043Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:53.776Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:29:54.194Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:54.699Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:29:55.036Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:50.498Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:50.920Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:51.608Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:52.216Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:52.818Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:53.365Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:53.958Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:54.466Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:55.076Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:56.067Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:56.774Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:57.281Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:57.923Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:58.432Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:58.973Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:30:59.539Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:00.079Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:22.478Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:22.951Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:23.293Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:23.570Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:24.014Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:24.303Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:25.234Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:25.752Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:31:26.489Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:31:26.835Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:31:27.305Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:31:27.669Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:28.212Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:28.622Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:28.976Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:31:29.464Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:31:29.943Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:01.093Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:01.739Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:02.274Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:02.705Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:02.968Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:03.231Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:03.635Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:04.602Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:05.413Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:06.182Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:06.783Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:07.599Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:08.232Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:08.957Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:09.615Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:10.279Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:10.809Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:11.563Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:12.246Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:12.937Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:14.165Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:15.601Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:16.288Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:16.910Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:17.557Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:18.175Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:18.668Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:19.238Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:20.003Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:21.227Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:22.273Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:25.191Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:32:27.366Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:28.759Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:29.648Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:32:30.516Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:33:07.987Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:33:08.723Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:33:09.465Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:33:10.017Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:33:10.525Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:30.744Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:30.967Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:31.179Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:31.376Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:31.694Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:32.071Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:41.857Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:42.179Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:42.555Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:46.382Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:46.692Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:47.003Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:47.248Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:47.630Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:34:47.912Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:24.378Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:24.622Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:24.893Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:25.418Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:25.827Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:26.232Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:26.802Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:27.231Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:27.513Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:27.815Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:28.137Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:28.412Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:29.737Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:30.158Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:30.441Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:30.736Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:31.034Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:31.338Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:31.878Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:32.304Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:32.649Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:32.861Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:42:33.082Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:13.446Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:13.701Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:13.931Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:14.161Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:14.422Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:14.648Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:14.903Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:15.179Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:15.412Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:15.650Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:15.899Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:16.147Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:16.398Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:16.649Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:16.897Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:17.148Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:17.398Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:17.629Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:17.881Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:18.133Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:18.365Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:18.597Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:18.835Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:19.069Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:19.350Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:19.599Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:19.838Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:20.121Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:22.810Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:23.052Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:23.301Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:47:23.637Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:47:23.865Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:47:24.140Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:24.727Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:26.109Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:26.368Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:26.618Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:26.868Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:27.186Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:27.548Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:27.842Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:28.084Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:30.107Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:30.394Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:30.654Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:30.866Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:31.138Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:31.404Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:31.704Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:32.157Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:32.410Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:47:32.604Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:36.457Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:36.936Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:37.406Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:49:38.066Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:49:38.412Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:49:38.908Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:49:39.253Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:49:39.454Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:39.877Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:40.284Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:40.876Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:41.290Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:41.725Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:42.270Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:42.989Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:49:45.924Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:46.177Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:49:46.405Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:39.595Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:39.989Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:40.431Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:40.730Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:40.981Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:41.704Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:42.250Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:50:42.599Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:43.066Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:43.701Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:44.288Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:44.790Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:45.222Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:45.794Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:50:46.123Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:15.778Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:16.282Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:16.746Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:17.199Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:17.640Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:18.090Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:18.516Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:18.900Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:19.288Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:19.644Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:19.941Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:51:33.752Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:51:34.069Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:51:34.346Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T14:51:34.571Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:35.345Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:35.555Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:35.773Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:35.991Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:37.366Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:37.629Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:37.880Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:38.541Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:38.814Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:39.476Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:51:39.698Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:27.412Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:27.756Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:28.027Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:28.335Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:28.645Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:28.934Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:29.221Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:29.516Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T14:53:29.803Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:40.796Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:41.285Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:41.652Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:41.995Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:42.432Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:42.802Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:43.278Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:43.536Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:44.168Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:44.560Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:44.921Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:45.416Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:45.693Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:46.508Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:46.933Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:47.300Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:47.582Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:47.794Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:48.259Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:48.923Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:49.216Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:49.484Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:50.039Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:50.615Z"
+    },
+    {
+      "type": "cash",
+      "timestamp": "2025-02-20T15:04:50.899Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:51.516Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:51.904Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:52.218Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:52.441Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:52.682Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:52.941Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:53.332Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:53.653Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:54.004Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:54.522Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:54.836Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:55.118Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:55.383Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:55.993Z"
+    },
+    {
+      "type": "credit",
+      "timestamp": "2025-02-20T15:04:56.311Z"
+    }
+  ]
+}
