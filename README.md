@@ -2,7 +2,9 @@
 
 A lightweight, browser-based counter application for tracking event attendance by payment method.
 
-![Event Capacity Counter](https://api.placeholder.com/400/200)
+![Event Capacity Counter](./resources/Event-Counter.png)
+
+[USE IT HERE](https://actuallyfro.github.io/Event-Counter/)
 
 ## Features
 
@@ -34,6 +36,10 @@ A lightweight, browser-based counter application for tracking event attendance b
 - **Download Button (Orange)**: Exports all transaction data as a JSON file
 
 ## Data Analysis
+
+![Capacity Counter Analysis](./resources/Event-Counter_Analysis.png)
+
+[USE IT HERE - Analysis](https://actuallyfro.github.io/Event-Counter/Analysis.html)
 
 The separate Analysis.html file provides advanced data visualization tools to help you understand transaction patterns:
 
